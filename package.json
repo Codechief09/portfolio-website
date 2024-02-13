@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-website-nextjs",
+  "name": "portfolio-website",
   "version": "1.0.0",
   "description": "This is my personal portfolio website.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Masood Akhtar Vaheed",
+  "author": "Luis Vidal",
   "license": "ISC",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.0",
@@ -21,6 +21,7 @@
     "@emotion/styled": "^11.11.0",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.19",
+    "firebase": "^10.8.0",
     "framer-motion": "^10.15.2",
     "mapbox-gl": "^2.15.0",
     "next": "13.4.19",
